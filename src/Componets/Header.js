@@ -34,6 +34,7 @@ function Header() {
           <CustomClose onClick={()=>setBurgerStatus(false)}/>
           </CloseWrapper>
           
+//redux work remaining
 
           <li><a herf="#">Existing</a></li>
           <li><a herf="#">Existing Inventory</a></li>
